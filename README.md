@@ -1,1 +1,1 @@
-https://loyalca.github.io/rsschool-cv/CV
+https://loyalca.github.io/rsschool-cv/cv
