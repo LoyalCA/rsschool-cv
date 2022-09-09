@@ -19,3 +19,23 @@ So, that's me in a nutshell.
 - Django/Python (Basic)d
 - Git/GitHub
 - Figma
+***
+### Code example:
+
+    function multiply(a, b){
+    a * b
+    }
+
+    function multiply(a, b){
+    return a * b
+    }
+***
+### Education:
+- Radiohpysics engineer, North-East Federal University, Yakutsk (Russia)
+- Courses:
+ - Arctic geophysics, Longyearbyen (Norway)
+ - International program, YEDI, Toronto (Canada)
+***
+### English
+IELTS 6 (june 2021)
+89% in [EFSET](www.efset.org)
