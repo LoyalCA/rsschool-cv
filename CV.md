@@ -1,23 +1,16 @@
 # **Aial PROTOPOPOV**
 ***
 ### Contact information:
-**Phone/WhatsApp:** +7 705 603 38 60
-----
-**E-mail:** aialprotopopov@gmail.com
-----
-**GitHub:** @LoyalCA
------
-**Telegram** @prtppoff
-----
-[Linkedin](https://www.linkedin.com/in/aial-protopopov/)
-----
-[Facebook](https://www.facebook.com/ayal.protopopov)
+- **Phone/WhatsApp:** +7 705 603 38 60
+- **E-mail:** aialprotopopov@gmail.com
+- **GitHub:** @LoyalCA
+- **Telegram** @prtppoff
+- [Linkedin](https://www.linkedin.com/in/aial-protopopov/)
+- [Facebook](https://www.facebook.com/ayal.protopopov)
 ***
 ### Briefly about me:
 Trying to fulfill my dream - become a software developer. Finally, I'm stable and independent from money making adventures.
-----
 Over 8 years managing various projects, from the government to digital health area. Managing projects related to IT for 5 years.
-----
 So, that's me in a nutshell.
 ***
 ### Skills and Proficiency:
@@ -44,6 +37,5 @@ So, that's me in a nutshell.
  - International program, YEDI, Toronto (Canada)
 ***
 ### English
-IELTS 6 (june 2021)
-----
-89% in [EFSET](www.efset.org)
+IELTS 6 (june 2021).
+89% in [EFSET](www.efset.org).
