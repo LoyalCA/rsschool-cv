@@ -1,7 +1,7 @@
 # **Aial PROTOPOPOV**
 ***
 ### Contact information:
-- **Phone/WhatsApp:** +7 705 603 38 60
+- **Phone/WhatsApp:** +7 705-603-38-60
 - **E-mail:** aialprotopopov@gmail.com
 - **GitHub:** @LoyalCA
 - **Telegram** @prtppoff
